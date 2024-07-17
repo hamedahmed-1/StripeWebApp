@@ -7,24 +7,36 @@
       "RelativeMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\uis\\desktop\\stripewebapp\\stripewebapp\\stripewebapp\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\uis\\desktop\\stripewebapp\\stripewebapp\\stripewebapp\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\uis\\desktop\\stripewebapp\\stripewebapp\\stripewebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\uis\\desktop\\stripewebapp\\stripewebapp\\stripewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\uis\\desktop\\stripewebapp\\stripewebapp\\stripewebapp\\views\\payment\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\views\\payment\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\uis\\desktop\\stripewebapp\\stripewebapp\\stripewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\uis\\desktop\\stripewebapp\\stripewebapp\\stripewebapp\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\uis\\desktop\\stripewebapp\\stripewebapp\\stripewebapp\\data\\mvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\data\\mvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\uis\\desktop\\stripewebapp\\stripewebapp\\stripewebapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\uis\\desktop\\stripewebapp\\stripewebapp\\stripewebapp\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|c:\\users\\uis\\desktop\\stripewebapp\\stripewebapp\\stripewebapp\\views\\payment\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D34715BE-BDB0-4B96-BEF2-2DAC00446666}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\views\\payment\\cancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,39 +54,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cancel.cshtml",
-              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Cancel.cshtml",
-              "RelativeDocumentMoniker": "StripeWebApp\\Views\\Payment\\Cancel.cshtml",
-              "ToolTip": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Cancel.cshtml",
-              "RelativeToolTip": "StripeWebApp\\Views\\Payment\\Cancel.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T20:50:39.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Success.cshtml",
-              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Success.cshtml",
-              "RelativeDocumentMoniker": "StripeWebApp\\Views\\Payment\\Success.cshtml",
-              "ToolTip": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Success.cshtml",
-              "RelativeToolTip": "StripeWebApp\\Views\\Payment\\Success.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T20:50:26.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "StripeWebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "StripeWebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-17T09:13:31.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MvcContext.cs",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Data\\MvcContext.cs",
+              "RelativeDocumentMoniker": "StripeWebApp\\Data\\MvcContext.cs",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Data\\MvcContext.cs",
+              "RelativeToolTip": "StripeWebApp\\Data\\MvcContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:16:54.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "StripeWebApp\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Models\\Item.cs",
+              "RelativeToolTip": "StripeWebApp\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:01:13.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Index.cshtml",
               "RelativeDocumentMoniker": "StripeWebApp\\Views\\Payment\\Index.cshtml",
               "ToolTip": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Index.cshtml",
               "RelativeToolTip": "StripeWebApp\\Views\\Payment\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-12T20:47:53.948Z",
               "EditorCaption": ""
@@ -87,35 +112,61 @@
               "RelativeDocumentMoniker": "StripeWebApp\\Controllers\\PaymentController.cs",
               "ToolTip": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Controllers\\PaymentController.cs",
               "RelativeToolTip": "StripeWebApp\\Controllers\\PaymentController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBsAAAAhAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T20:46:37.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Program.cs",
               "RelativeDocumentMoniker": "StripeWebApp\\Program.cs",
               "ToolTip": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Program.cs",
               "RelativeToolTip": "StripeWebApp\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABGAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T20:41:08.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "StripeWebApp\\appsettings.json",
               "ToolTip": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\appsettings.json",
               "RelativeToolTip": "StripeWebApp\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-12T20:37:07.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Success.cshtml",
+              "RelativeDocumentMoniker": "StripeWebApp\\Views\\Payment\\Success.cshtml",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Success.cshtml",
+              "RelativeToolTip": "StripeWebApp\\Views\\Payment\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T20:50:26.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cancel.cshtml",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Cancel.cshtml",
+              "RelativeDocumentMoniker": "StripeWebApp\\Views\\Payment\\Cancel.cshtml",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\StripeWebApp\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Cancel.cshtml",
+              "RelativeToolTip": "StripeWebApp\\Views\\Payment\\Cancel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T20:50:39.019Z",
               "EditorCaption": ""
             }
           ]

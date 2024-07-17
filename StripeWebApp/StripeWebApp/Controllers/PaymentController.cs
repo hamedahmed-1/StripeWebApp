@@ -1,17 +1,26 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Stripe.Checkout;
+using StripeWebApp.Data;
+using StripeWebApp.Models;
 
 namespace StripeWebApp.Controllers
 {
     public class PaymentController : Controller
     {
-        public IActionResult Index()
+        private readonly MvcContext _context;
+        public PaymentController(MvcContext context)
         {
-            return View();
+            _context = context;
+        }   
+
+        public async Task<IActionResult> Index()
+        {
+            return View(await _context.Items.ToListAsync());
         }
 
         [HttpPost]
-        public ActionResult CreateCheckout()
+        public ActionResult CreateCheckout([Bind("Id, Name, ImageUrl, PriceId")] Item item)
         {
             var domain = "https://localhost:7071/";
             var options = new SessionCreateOptions
@@ -21,7 +30,7 @@ namespace StripeWebApp.Controllers
                   new SessionLineItemOptions
                   {
                     // Provide the exact Price ID (for example, pr_1234) of the product you want to sell
-                    Price = "price_1PavBpEvsRuqfYss3i2JbBZO",
+                    Price = $"{item.PriceId}",
                     Quantity = 1,
                   },
                 },
